@@ -2,6 +2,8 @@
 ### Software
 - Flask
 - Jupyter notebook
+- SQLite
+- SQLAlchamy
 - Python
 - VS code 
 
